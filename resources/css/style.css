@@ -36,3 +36,10 @@ body{
   font-size:14px;
 
 }
+
+.footer{
+  background-color: dimgray;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+}
