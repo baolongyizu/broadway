@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+.hero{
+  background-image: url(file:///Users/weiwu/Documents/Project/broadway/resources/image/the-flatiron-building.png);
+  color: white;
+}
+
+.hero h1{
+  top:18px;
+  left:10px;
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.btn-nav{
+  font-size: 18px;
+  color: white;
+  font-family: Helvetica;
+}
