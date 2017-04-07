@@ -19,3 +19,20 @@ body{
   color: white;
   font-family: Helvetica;
 }
+
+.layout h2{
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+.layout h3{
+  font-family: Helvetica;
+  font-size:23px;
+  font-weight:bold;
+}
+
+.layout p{
+  font-family: Helvetica;
+  font-size:14px;
+
+}
